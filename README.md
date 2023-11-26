@@ -1,6 +1,7 @@
 # Getting Started with Create React App
  <h1>Hi,I am  Rajesh Geesala.
     I created a to-do list app to showcase my skills
+    Technologies used : HTML,CSS,JS,BOOTSTRAP,REACTJS TYPESCRIPT
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
