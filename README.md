@@ -1,5 +1,6 @@
 # Getting Started with Create React App
- <h1>Hi, Rajesh Geesala.
+ <h1>Hi,I am  Rajesh Geesala.
+    I created a to-do list app to showcase my skills
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
